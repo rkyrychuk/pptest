@@ -1,0 +1,5 @@
+development: 
+  username: <PAYPAL_USER>
+  password: <PAYPAL_PASSWORD>
+  signature: <SIGNATURE>
+  #sandbox: true

@@ -10,4 +10,5 @@ Pptest::Application.routes.draw do
       get :cancel
     end
   end
+  root to: "posts#index"
 end
